@@ -1,0 +1,13 @@
+right 100
+down 50
+right 100
+down 50
+left 150
+up 25
+x 300
+y 300
+down 75
+right 75
+up 75
+left 75
+right 150
