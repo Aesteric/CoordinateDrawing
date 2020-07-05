@@ -1,4 +1,3 @@
-package com.company;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
